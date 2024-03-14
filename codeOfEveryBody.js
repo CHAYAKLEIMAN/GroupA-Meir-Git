@@ -1,1 +1,3 @@
-
+function func(){
+    let m="🎻🎻";
+}

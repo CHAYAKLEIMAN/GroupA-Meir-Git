@@ -1,1 +1,4 @@
-moriya 
+function func(){
+
+
+}
